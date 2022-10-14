@@ -1,0 +1,5 @@
+# Ignore these file(s)
+.ipynb_checkpoints
+
+# DO NOT ignore these file(s)
+!.gitignore
