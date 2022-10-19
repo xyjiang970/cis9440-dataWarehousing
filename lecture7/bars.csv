@@ -1,0 +1,26 @@
+,name,review_count,rating,price,distance,street,city,state,country,address,latitude,longitude
+0,Chapel Bar,30,4.0,,295.039409071976,281 Park Ave S,New York,NY,US,"281 Park Ave S, New York, NY",40.7392696,-73.986775
+1,Jungly,8,4.0,,2821.888560645093,12-23 Jackson Ave,Queens,NY,US,"12-23 Jackson Ave, Queens, NY",40.7439906,-73.950193
+2,Crown Alley,132,5.0,$$,1404.2330862288004,263 West 19th St,New York,NY,US,"263 West 19th St, New York, NY",40.742787199999995,-73.99968636582196
+3,Ampersand,246,4.5,$$,179.4402490317109,294 3rd Ave,New York,NY,US,"294 3rd Ave, New York, NY",40.67697765,-73.9866262893355
+4,Nothing Really Matters,63,4.5,$$,2356.0398673947357,1627 Broadway,New York,NY,US,"1627 Broadway, New York, NY",40.7613984,-73.9843167
+5,Valerie,482,4.5,$$,1804.479814600912,45 W 45th St between 5th & 6th Ave,New York,NY,US,"45 W 45th St between 5th & 6th Ave, New York, NY",,
+6,Thyme Bar,211,4.0,$$$,618.6161855742603,20 W 23rd St Cellar,New York,NY,US,"20 W 23rd St Cellar, New York, NY",,
+7,The Green Room,28,4.0,$$,137.38751496938693,156 E 23rd St,New York,NY,US,"156 E 23rd St, New York, NY",40.7388628,-73.98387369029581
+8,Patent Pending,290,4.0,$$$,801.6155499765266,49 W 27th St,New York,NY,US,"49 W 27th St, New York, NY",40.7452186,-73.9902413
+9,Raines Law Room,1550,4.5,$$$,953.4730984357892,48 W 17th St,New York,NY,US,"48 W 17th St, New York, NY",40.7387302,-73.9945926
+10,The Skylark,651,4.0,$$$,1631.5464752634232,200 W 39th St,New York,NY,US,"200 W 39th St, New York, NY",40.7540102,-73.9888897
+11,Roof At 66 Park,18,4.5,,1082.7311253085359,66 Park Ave E 38th St,New York,NY,US,"66 Park Ave E 38th St, New York, NY",,
+12,Undercote,65,4.0,,668.5113260944936,16 W 22nd St,New York,NY,US,"16 W 22nd St, New York, NY",40.7410352,-73.9914328
+13,The Rag Trader & Bo Peep Cocktail and Highball Store,679,4.5,$$,1178.2893044104715,70 W 36th St,New York,NY,US,"70 W 36th St, New York, NY",40.7505863,-73.98627970214153
+14,Swingers NoMad,159,4.5,$$,823.0437280729197,35 W 29th St,New York,NY,US,"35 W 29th St, New York, NY",40.7463274,-73.9890193
+15,The Gold Room,14,4.5,,2094.08858000408,455 Madison Ave,New York,NY,US,"455 Madison Ave, New York, NY",40.75798035,-73.97476900451042
+16,J.Bespoke,42,4.5,,246.98505671226883,121 E 27th St,New York,NY,US,"121 E 27th St, New York, NY",40.7424089,-73.9835126
+17,Hidden Lane,48,4.5,,719.4999004491813,129 E 15th St,New York,NY,US,"129 E 15th St, New York, NY",40.7345947,-73.98766965
+18,Jungle Bird,153,4.0,$$,1430.6763649018244,174 8th Ave,New York,NY,US,"174 8th Ave, New York, NY",40.742595,-74.000177
+19,The Woo Woo,38,4.5,,2233.458562038682,266 W 47th St,New York,NY,US,"266 W 47th St, New York, NY",40.7601307,-73.9871355
+20,Ye's Apothecary,94,4.5,,2371.1724964347754,119 Orchard St,New York,NY,US,"119 Orchard St, New York, NY",42.6222373,-73.8623468
+21,The Tippler,697,4.0,$$,1940.4418077279895,425 W 15th St,New York,NY,US,"425 W 15th St, New York, NY",40.7424693,-74.0065847
+22,Life Rooftop,30,4.0,,2734.4157846394296,120 W 57th St,New York,NY,US,"120 W 57th St, New York, NY",40.76457245,-73.97847020452481
+23,Ollie,84,5.0,$$,2203.3979635933756,64 Downing St,New York,NY,US,"64 Downing St, New York, NY",40.68385485,-73.9611221
+24,Strangelove,47,4.5,$,2303.444927653785,229 E 53rd St,New York,NY,US,"229 E 53rd St, New York, NY",40.75738535,-73.96809701864285
