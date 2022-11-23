@@ -1,0 +1,30 @@
+Company,Ticker,Sector,Industry,City,State,Country,Full_Time_Employees,Total_Revenue,EBITA,Fifty_Two_Week_Change
+3M Company,MMM,Industrials,Conglomerates,Saint Paul,MN,United States,95000.0,34761998336.0,6968999936.0,-0.2760232
+American Express Company,AXP,Financial Services,Credit Services,New York,NY,United States,64000.0,49622999040.0,,-0.09923667
+Amgen Inc.,AMGN,Healthcare,Drug Manufacturers—General,Thousand Oaks,CA,United States,24200.0,26329999360.0,13425000448,0.40731478
+Apple Inc.,AAPL,Technology,Consumer Electronics,Cupertino,CA,United States,164000.0,394328014848.0,130541002752,-0.0726195
+Boeing Company (The),BA,Industrials,Aerospace & Defense,Chicago,IL,United States,142000.0,61420998656.0,-2680999936,-0.18091166
+"Caterpillar, Inc.",CAT,Industrials,Farm & Heavy Construction Machinery,Irving,TX,United States,107700.0,56627998720.0,11150999552,0.14579606
+Chevron Corporation,CVX,Energy,Oil & Gas Integrated,San Ramon,CA,United States,42595.0,227054993408.0,52928999424,0.58622754
+"Cisco Systems, Inc.",CSCO,Technology,Communication Equipment,San Jose,CA,United States,83300.0,52288999424.0,15879999488,-0.12891608
+Coca-Cola Company (The),KO,Consumer Defensive,Beverages—Non-Alcoholic,Atlanta,GA,United States,79000.0,42342998016.0,13530999808,0.12484217
+Dow Inc.,DOW,Basic Materials,Chemicals,Midland,MI,United States,35700.0,59406999552.0,9957999616,-0.120416164
+"Goldman Sachs Group, Inc. (The)",GS,Financial Services,Capital Markets,New York,NY,United States,49100.0,47324000256.0,,-0.038377702
+"Home Depot, Inc. (The)",HD,Consumer Cyclical,Home Improvement Retail,Atlanta,GA,United States,500000.0,157291003904.0,27324000256,-0.21166676
+Honeywell International Inc.,HON,Industrials,Conglomerates,Charlotte,NC,United States,99000.0,34936999936.0,8498999808,0.03086567
+International Business Machines,IBM,Technology,Information Technology Services,Armonk,NY,United States,282100.0,60535001088.0,12010000384,0.27730656
+Intel Corporation,INTC,Technology,Semiconductors,Santa Clara,CA,United States,121100.0,69540003840.0,20846000128,-0.40072346
+Johnson & Johnson,JNJ,Healthcare,Drug Manufacturers—General,New Brunswick,NJ,United States,141700.0,96041000960.0,32049000448,0.10346985
+JP Morgan Chase & Co.,JPM,Financial Services,Banks—Diversified,New York,NY,United States,288474.0,120585003008.0,,-0.1911835
+McDonald's Corporation,MCD,Consumer Cyclical,Restaurants,Chicago,IL,United States,100000.0,23265200128.0,12056000512,0.06864762
+"Merck & Company, Inc.",MRK,Healthcare,Drug Manufacturers—General,Kenilworth,NJ,United States,67000.0,58973999104.0,24074000384,0.2992221
+Microsoft Corporation,MSFT,Technology,Software—Infrastructure,Redmond,WA,United States,221000.0,203074994176.0,98841001984,-0.2748661
+"Nike, Inc.",NKE,Consumer Cyclical,Footwear & Accessories,Beaverton,OR,United States,79100.0,47148998656.0,7078000128,-0.3840028
+Procter & Gamble Company (The),PG,Consumer Defensive,Household & Personal Products,Cincinnati,OH,United States,106000.0,80460996608.0,21364000768,-0.02044934
+"Salesforce, Inc.",CRM,Technology,Software—Application,San Francisco,CA,United States,78634.0,29319999488.0,2464999936,-0.48386765
+"The Travelers Companies, Inc.",TRV,Financial Services,Insurance—Property & Casualty,New York,NY,United States,30184.0,36259000320.0,5215000064,0.17714036
+UnitedHealth Group Incorporated,UNH,Healthcare,Healthcare Plans,Minnetonka,MN,United States,350000.0,315117993984.0,29351000064,0.16200912
+Verizon Communications Inc.,VZ,Communication Services,Telecom Services,New York,NY,United States,119500.0,135651000320.0,43437998080,-0.2411924
+Visa Inc.,V,Financial Services,Credit Services,San Francisco,CA,United States,26500.0,29309999104.0,20596000768,0.034833908
+"Walgreens Boots Alliance, Inc.",WBA,Healthcare,Pharmaceutical Retailers,Deerfield,IL,United States,200000.0,132703002624.0,4749000192,-0.1036036
+Walmart Inc.,WMT,Consumer Defensive,Discount Stores,Bentonville,AR,United States,2300000.0,600111972352.0,31594000384,0.03514397
