@@ -35,16 +35,17 @@ We want to see how traffic collisions in NYC changed over the years and if addit
     - Borough 
 
 #### Project Business or Organization Value:
-<b>High-level Business Initiative:</b>
-<p>&nbsp;</p>
+##### High-level Business Initiative:
 We want to discover where and when most motor vehicle accidents happen in NYC and which demographics are more affected. Our group ultimately wants to bring transparency to the traffic collisions in NYC.
 
-<b>BI Sponsors and Stakeholders (who will own this project?)</b>
 <p>&nbsp;</p>
+
+##### BI Sponsors and Stakeholders (who will own this project?)
 This project is by Baruch students working for the NYC Department of Transportation (NYC DOT).
 
-</b>What’s the Business Value?</b>
 <p>&nbsp;</p>
+
+##### What’s the Business Value?
 By identifying the context of motor vehicle accidents, we can come up with suggestions to guide city leaders in preventing these types of accidents.
 
 
@@ -63,12 +64,12 @@ List of Data Warehouse KPI's:
 
 ### Dimensional Model
 This project's Dimensional Model consists of 2 Facts and 4 Dimensions:
-![Alt text](images/dimensional_model.png)
+![Dimensional Model](images/dimensional_model.png){: width="50%"}
 
 <p>&nbsp;</p>
 
 This project's Kimball Bus Matrix:
-![Alt text](images/bus_matrix.png)
+![Kimball Bus Matrix](images/bus_matrix.png)
 
 ### Business Intelligence Design and Development
 List of Visualizations for each KPI:
@@ -108,7 +109,7 @@ Picture of final Dashboard:
 <b>Dashboard 1:</b>
 ![Dashboard 1](images/dashboard1.png)
 
-<p>&nbsp;</p>
+<br>
 
 <b>Dashboard 2:</b>
 ![Dashboard 2](images/dashboard2.png)
