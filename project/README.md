@@ -69,13 +69,13 @@ List of Data Warehouse KPI's:
 ### Dimensional Model
 This project's Dimensional Model consists of 2 Facts and 4 Dimensions:
 <!-- ![Dimensional Model](images/dimensional_model.png){: width="50%"} -->
-<img src="images/dimensional_model.png" alt= "Dimensional Model" width="50%">
+<img src="images/dimensional_model.png" alt= "Dimensional Model" width="65%">
 
 <p>&nbsp;</p>
 
 This project's Kimball Bus Matrix:
 <!-- ![Kimball Bus Matrix](images/bus_matrix.png) -->
-<img src="images/bus_matrix.png" alt= "Kimball Bus Matrix" width="50%">
+<img src="images/bus_matrix.png" alt= "Kimball Bus Matrix" width="65%">
 
 <br>
 
@@ -83,33 +83,33 @@ This project's Kimball Bus Matrix:
 List of Visualizations for each KPI:
 1. Line chart showing number of collisions by year allows us to see changes that occur over time. This allows us to investigate what year collisions are more likely to occur.
 <!-- ![Number of Collisions by Year](images/graphs/number_of_collisions_by_year.png) -->
-<img src="images/graphs/number_of_collisions_by_year.png" alt= "Number of Collisions by Year" width="75%">
+<img src="images/graphs/number_of_collisions_by_year.png" alt="Number of Collisions by Year" width="65%">
 
 2. Bar chart showing number of collisions by hour. This KPI can show which time (24-hour clock) collisions are more likely to occur. The Metropolitan Transportation Authority can use this insight to increase public transportation during crash- prone hours to disincentivize driving.
-
-![Number of Collisions by Hour](images/graphs/number_of_collisions_by_hour.png)
+<!-- ![Number of Collisions by Hour](images/graphs/number_of_collisions_by_hour.png) -->
+<img src="images/graphs/number_of_collisions_by_hour.png" alt="Number of Collisions by Hour">
 
 3. Bubble Graph showing the number of victims by month (by year). The size of each bubble correlates to the number of victims for that month. This can help the audience easily digest when most collisions take place and allow experts to perhaps better plan city traffic during months of high collisions.
-
-![Number of Victims by Month](images/graphs/number_of_victims_by_month.png)
+<!-- ![Number of Victims by Month](images/graphs/number_of_victims_by_month.png) -->
+<img src="images/graphs/number_of_victims_by_month.png" alt="Number of Victims by Month">
 
 4. Histogram showing number of victims by age. A histogram works well here because it breaks down the frequency of collisions by age group (bins). We also further separated the data to look a male v.s female statistics of the victims. Public safety officials can create educational campaigns targeting the age and gender groups more likely to experience a collision.
-
-![Number of Victims by Age](images/graphs/number_of_victims_by_age.png)
+<!-- ![Number of Victims by Age](images/graphs/number_of_victims_by_age.png) -->
+<img src="images/graphs/number_of_victims_by_age.png" alt="Number of Victims by Age">
 
 5. Another line graph showing number of cyclist collisions by year. We want to see how the introduction of city bikes since 2013 affected overall cyclist collisions (injuries and death).
-
-![Number of Cyclist Collisions by Year](images/graphs/number_of_cyclist_collisions_by_year.png)
+<!-- ![Number of Cyclist Collisions by Year](images/graphs/number_of_cyclist_collisions_by_year.png) -->
+<img src="images/graphs/number_of_cyclist_collisions_by_year.png" alt="Number of Cyclist Collisions by Year">
 
 6. Tree map showing number of collisions by zip code. A tree map can be used here because they capture relative sizes of categories (in this case zip codes). This is especially helpful because we are mainly interested <b>mainly</b> in areas with the high collision counts. The New York City Department of Transportation can prioritize the zip codes with higher collisions with initiatives to reduce and prevent collisions.
-
-![Number of Collisions by Zip Code](images/graphs/number_of_collisions_by_zip_code.png)
+<!-- ![Number of Collisions by Zip Code](images/graphs/number_of_collisions_by_zip_code.png) -->
+<img src="images/graphs/number_of_collisions_by_zip_code.png" alt="Number of Collisions by Zip Code">
 
 <p>&nbsp;</p>
 
 #### BI Application Wireframe Design:
-
-![BI Application Wireframe Design](images/wireframe_design.png)
+<!-- ![BI Application Wireframe Design](images/wireframe_design.png) -->
+<img src="images/wireframe_design.png" alt="BI Application Wireframe Design" width="110%">
 
 <p>&nbsp;</p>
 
