@@ -69,7 +69,7 @@ List of Data Warehouse KPI's:
 ### Dimensional Model
 This project's Dimensional Model consists of 2 Facts and 4 Dimensions:
 <!-- ![Dimensional Model](images/dimensional_model.png){: width="50%"} -->
-<img src="image/dimensional_model.png" width="50%">
+<img src="/image/dimensional_model.png" width="50%">
 
 <p>&nbsp;</p>
 
@@ -113,12 +113,11 @@ List of Visualizations for each KPI:
 <p>&nbsp;</p>
 
 #### Pictures of final Dashboard(s):
-<b>Dashboard 1:</b>
+##### Dashboard 1:
 ![Dashboard 1](images/dashboard1.png)
 
-<p>&nbsp;</p>
 
-<b>Dashboard 2:</b>
+##### Dashboard 2:
 ![Dashboard 2](images/dashboard2.png)
 
 <br>
