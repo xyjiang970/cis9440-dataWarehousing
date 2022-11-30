@@ -115,11 +115,11 @@ List of Visualizations for each KPI:
 
 #### Pictures of final Dashboard(s):
 ##### Dashboard 1:
-![Dashboard 1](images/dashboard1.png)
+![Dashboard 1](images/dashboard_1.png)
 
 
 ##### Dashboard 2:
-![Dashboard 2](images/dashboard2.png)
+![Dashboard 2](images/dashboard_2.png)
 
 <br>
 
