@@ -69,20 +69,21 @@ List of Data Warehouse KPI's:
 ### Dimensional Model
 This project's Dimensional Model consists of 2 Facts and 4 Dimensions:
 <!-- ![Dimensional Model](images/dimensional_model.png){: width="50%"} -->
-<img src="images/dimensional_model.png" width="50%">
+<img src="images/dimensional_model.png" alt= "Dimensional Model" width="50%">
 
 <p>&nbsp;</p>
 
 This project's Kimball Bus Matrix:
-![Kimball Bus Matrix](images/bus_matrix.png)
+<!-- ![Kimball Bus Matrix](images/bus_matrix.png) -->
+<img src="images/bus_matrix.png" alt= "Kimball Bus Matrix" width="50%">
 
 <br>
 
 ### Business Intelligence Design and Development
 List of Visualizations for each KPI:
 1. Line chart showing number of collisions by year allows us to see changes that occur over time. This allows us to investigate what year collisions are more likely to occur.
-
-![Number of Collisions by Year](images/graphs/number_of_collisions_by_year.png)
+<!-- ![Number of Collisions by Year](images/graphs/number_of_collisions_by_year.png) -->
+<img src="images/graphs/number_of_collisions_by_year.png" alt= "Number of Collisions by Year" width="75%">
 
 2. Bar chart showing number of collisions by hour. This KPI can show which time (24-hour clock) collisions are more likely to occur. The Metropolitan Transportation Authority can use this insight to increase public transportation during crash- prone hours to disincentivize driving.
 
