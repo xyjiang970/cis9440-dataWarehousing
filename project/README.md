@@ -15,7 +15,7 @@ The tools used to build this Data Warehouse were: (change this to make applicabl
 ## Kimball Lifecycle Project Stages
 
 ### Project Planning
-Motivation for project:
+#### Motivation for project:
 A recent congestion pricing plan will charge drivers $23 to enter Manhattan if implemented. It was part of NYC’s strategy to tackle congestion and other problems relating to the city’s health ([source](https://www.nytimes.com/2022/08/18/nyregion/nyc-congestion-pricing-manhattan.html)). This sparked our group’s interest in taking a look into the traffic congestion statistics in NYC - specifically relating to traffic accidents. This is especially relevant now that the city is implementing more bike lanes and reducing carbon emissions. For example, in 2013, Citi Bike was launched as an alternative transportation method to help the environment and keep the city’s citizens healthy. 
 
 We want to see how traffic collisions in NYC changed over the years and if additions similar to Citi Bike made traffic conditions better or worse for the city. Our group hopes to bring more transparency to traffic collisions in NYC.
@@ -89,7 +89,7 @@ List of Visualizations for each KPI:
 <!-- ![Number of Collisions by Hour](images/graphs/number_of_collisions_by_hour.png) -->
 <img src="images/graphs/number_of_collisions_by_hour.png" alt="Number of Collisions by Hour">
 
-3. Bubble Graph showing the number of victims by month (by year). The size of each bubble correlates to the number of victims for that month. This can help the audience easily digest when most collisions take place and allow experts to perhaps better plan city traffic during months of high collisions.
+3. Bubble Graph showing the number of victims by month (by year). The size of each bubble correlates to the number of victims for that month. This can help the audience easily digest when most collisions take place and allow experts to better plan city traffic during months of high collisions.
 <!-- ![Number of Victims by Month](images/graphs/number_of_victims_by_month.png) -->
 <img src="images/graphs/number_of_victims_by_month.png" alt="Number of Victims by Month">
 
