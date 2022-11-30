@@ -43,17 +43,13 @@ We want to see how traffic collisions in NYC changed over the years and if addit
 <p>&nbsp;</p>
 
 <u>Project Business or Organization Value:</u>
-<b>High-level Business Initiative:</b>
+<b>High-level Business Initiative:</b><p>&nbsp;</p>
 We want to discover where and when most motor vehicle accidents happen in NYC and which demographics are more affected. Our group ultimately wants to bring transparency to the traffic collisions in NYC.
 
-<p>&nbsp;</p>
-
-<b>BI Sponsors and Stakeholders (who will own this project?)</b>
+<b>BI Sponsors and Stakeholders (who will own this project?)</b><p>&nbsp;</p>
 This project is by Baruch students working for the NYC Department of Transportation (NYC DOT).
 
-<p>&nbsp;</p>
-
-</b>What’s the Business Value?</b>
+</b>What’s the Business Value?</b><p>&nbsp;</p>
 By identifying the context of motor vehicle accidents, we can come up with suggestions to guide city leaders in preventing these types of accidents.
 
 
@@ -72,43 +68,43 @@ List of Data Warehouse KPI's:
 
 ### Dimensional Model
 This project's Dimensional Model consists of 2 Facts and 4 Dimensions:
-![Alt text](/images/dimensional_model.png)
+![Alt text](images/dimensional_model.png)
 
 <p>&nbsp;</p>
 
 This project's Kimball Bus Matrix:
-![Alt text](/images/bus_matrix.png)
+![Alt text](images/bus_matrix.png)
 
 ### Business Intelligence Design and Development
 List of Visualizations for each KPI:
 1. Line chart showing number of collisions by year allows us to see changes that occur over time. This allows us to investigate what year collisions are more likely to occur.
-![Number of Collisions by Year](/images/graphs/number_of_collisions_by_year.png)
+![Number of Collisions by Year](images/graphs/number_of_collisions_by_year.png)
 2. Bar chart showing number of collisions by hour. This KPI can show which time (24-hour clock) collisions are more likely to occur. The Metropolitan Transportation Authority can use this insight to increase public transportation during crash- prone hours to disincentivize driving.
-![Number of Collisions by Hour](/images/graphs/number_of_collisions_by_hour.png)
+![Number of Collisions by Hour](images/graphs/number_of_collisions_by_hour.png)
 3. Bubble Graph showing the number of victims by month (by year). The size of each bubble correlates to the number of victims for that month. This can help the audience easily digest when most collisions take place and allow experts to perhaps better plan city traffic during months of high collisions.
-![Number of Victims by Month](/images/graphs/number_of_victims_by_month.png)
+![Number of Victims by Month](images/graphs/number_of_victims_by_month.png)
 4. Histogram showing number of victims by age. A histogram works well here because it breaks down the frequency of collisions by age group (bins). We also further separated the data to look a male v.s female statistics of the victims. Public safety officials can create educational campaigns targeting the age and gender groups more likely to experience a collision.
-![Number of Victims by Age](/images/graphs/number_of_victims_by_age.png)
+![Number of Victims by Age](images/graphs/number_of_victims_by_age.png)
 5. Another line graph showing number of cyclist collisions by year. We want to see how the introduction of city bikes since 2013 affected overall cyclist collisions (injuries and death).
-![Number of Cyclist Collisions by Year](/images/graphs/number_of_cyclist_collisions_by_year.png)
+![Number of Cyclist Collisions by Year](images/graphs/number_of_cyclist_collisions_by_year.png)
 6. Tree map showing number of collisions by zip code. A tree map can be used here because they capture relative sizes of categories (in this case zip codes). This is especially helpful because we are mainly interested <b>mainly</b> in areas with the high collision counts. The New York City Department of Transportation can prioritize the zip codes with higher collisions with initiatives to reduce and prevent collisions.
-![Number of Collisions by Zip Code](/images/graphs/number_of_collisions_by_zip_code.png)
+![Number of Collisions by Zip Code](images/graphs/number_of_collisions_by_zip_code.png)
 
 <p>&nbsp;</p>
 
 <u>BI Application Wireframe Design:</u>
-![BI Application Wireframe Design](/images/wireframe_design.png)
+![BI Application Wireframe Design](images/wireframe_design.png)
 
 <p>&nbsp;</p>
 
 Picture of final Dashboard:
 <u>Dashboard 1:</u>
-![Dashboard 1](/images/dashboard1.png)
+![Dashboard 1](images/dashboard1.png)
 <p>&nbsp;</p>
 <u>Dashboard 2:</u>
-![Dashboard 2 (continued)](/images/dashboard2.png)
+![Dashboard 2 (continued)](images/dashboard2.png)
 
 ### Deployment
 The project was deployed on Tableau Public:
-1. [Dashboard 1](https://public.tableau.com/app/profile/jason.jiang4864/viz/NYCMotorVehicleCollisionTransparency/Dashboard?publish=yes )
+1. [Dashboard 1](https://public.tableau.com/app/profile/jason.jiang4864/viz/NYCMotorVehicleCollisionTransparency/Dashboard?publish=yes)
 2. [Dashboard 2 (continued)](https://public.tableau.com/app/profile/jason.jiang4864/viz/NYCMotorVehicleCollisionTransparencycontinued/Dashboard2?publish=yes)
