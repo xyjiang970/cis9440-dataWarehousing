@@ -20,6 +20,8 @@ A recent congestion pricing plan will charge drivers $23 to enter Manhattan if i
 
 We want to see how traffic collisions in NYC changed over the years and if additions similar to Citi Bike made traffic conditions better or worse for the city. Our group hopes to bring more transparency to traffic collisions in NYC.
 
+<p>&nbsp;</p>
+
 #### Description of the issues or opportunities the project will address:
 - What are collision statistics broken down by vehicle type? (Cars, bikes, motorcycles, buses, etc.)
     - Is there seasonality to this? 
@@ -34,16 +36,14 @@ We want to see how traffic collisions in NYC changed over the years and if addit
     - Age
     - Borough 
 
+<p>&nbsp;</p>
+
 #### Project Business or Organization Value:
 ##### High-level Business Initiative:
 We want to discover where and when most motor vehicle accidents happen in NYC and which demographics are more affected. Our group ultimately wants to bring transparency to the traffic collisions in NYC.
 
-<p>&nbsp;</p>
-
 ##### BI Sponsors and Stakeholders (who will own this project?)
 This project is by Baruch students working for the NYC Department of Transportation (NYC DOT).
-
-<p>&nbsp;</p>
 
 ##### What’s the Business Value?
 By identifying the context of motor vehicle accidents, we can come up with suggestions to guide city leaders in preventing these types of accidents.
@@ -52,6 +52,8 @@ By identifying the context of motor vehicle accidents, we can come up with sugge
 ### Data Sources:
 1. https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95
 2. https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Person/f55k-p6yu
+
+<br>
 
 ### Business Requirements Definition
 List of Data Warehouse KPI's:
@@ -62,14 +64,19 @@ List of Data Warehouse KPI's:
 5. Number of Collisions by Zip Code
 6. Number of Cyclist Collisions by Year
 
+<br>
+
 ### Dimensional Model
 This project's Dimensional Model consists of 2 Facts and 4 Dimensions:
-![Dimensional Model](images/dimensional_model.png){: width="50%"}
+<!-- ![Dimensional Model](images/dimensional_model.png){: width="50%"} -->
+<img src="image/dimensional_model.png" width="50%">
 
 <p>&nbsp;</p>
 
 This project's Kimball Bus Matrix:
 ![Kimball Bus Matrix](images/bus_matrix.png)
+
+<br>
 
 ### Business Intelligence Design and Development
 List of Visualizations for each KPI:
@@ -99,20 +106,22 @@ List of Visualizations for each KPI:
 
 <p>&nbsp;</p>
 
-BI Application Wireframe Design:
+#### BI Application Wireframe Design:
 
 ![BI Application Wireframe Design](images/wireframe_design.png)
 
 <p>&nbsp;</p>
 
-Picture of final Dashboard:
+#### Pictures of final Dashboard(s):
 <b>Dashboard 1:</b>
 ![Dashboard 1](images/dashboard1.png)
 
-<br>
+<p>&nbsp;</p>
 
 <b>Dashboard 2:</b>
 ![Dashboard 2](images/dashboard2.png)
+
+<br>
 
 ### Deployment
 The project was deployed on Tableau Public:
