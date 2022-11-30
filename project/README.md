@@ -20,9 +20,7 @@ A recent congestion pricing plan will charge drivers $23 to enter Manhattan if i
 
 We want to see how traffic collisions in NYC changed over the years and if additions similar to Citi Bike made traffic conditions better or worse for the city. Our group hopes to bring more transparency to traffic collisions in NYC.
 
-<p>&nbsp;</p>
-
-Description of the issues or opportunities the project will address:
+#### Description of the issues or opportunities the project will address:
 - What are collision statistics broken down by vehicle type? (Cars, bikes, motorcycles, buses, etc.)
     - Is there seasonality to this? 
     - Driver’s license status
@@ -36,16 +34,17 @@ Description of the issues or opportunities the project will address:
     - Age
     - Borough 
 
-<p>&nbsp;</p>
-
-Project Business or Organization Value:
+#### Project Business or Organization Value:
 <b>High-level Business Initiative:</b>
+<p>&nbsp;</p>
 We want to discover where and when most motor vehicle accidents happen in NYC and which demographics are more affected. Our group ultimately wants to bring transparency to the traffic collisions in NYC.
 
 <b>BI Sponsors and Stakeholders (who will own this project?)</b>
+<p>&nbsp;</p>
 This project is by Baruch students working for the NYC Department of Transportation (NYC DOT).
 
 </b>What’s the Business Value?</b>
+<p>&nbsp;</p>
 By identifying the context of motor vehicle accidents, we can come up with suggestions to guide city leaders in preventing these types of accidents.
 
 
@@ -106,8 +105,9 @@ BI Application Wireframe Design:
 <p>&nbsp;</p>
 
 Picture of final Dashboard:
-<b>Dashboard 1:<b?
+<b>Dashboard 1:</b>
 ![Dashboard 1](images/dashboard1.png)
+
 <p>&nbsp;</p>
 
 <b>Dashboard 2:</b>
