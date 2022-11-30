@@ -101,7 +101,7 @@ List of Visualizations for each KPI:
 <!-- ![Number of Cyclist Collisions by Year](images/graphs/number_of_cyclist_collisions_by_year.png) -->
 <img src="images/graphs/number_of_cyclist_collisions_by_year.png" alt="Number of Cyclist Collisions by Year">
 
-6. Tree map showing number of collisions by zip code. A tree map can be used here because they capture relative sizes of categories (in this case zip codes). This is especially helpful because we are mainly interested <b>mainly</b> in areas with the high collision counts. The New York City Department of Transportation can prioritize the zip codes with higher collisions with initiatives to reduce and prevent collisions.
+6. Tree map showing number of collisions by zip code. A tree map can be used here because they capture relative sizes of categories (in this case zip codes). This is especially helpful because we are mainly interested <b>mainly</b> in areas with the high collision counts. The New York City Department of Transportation can prioritize zip codes with higher collisions to help reduce and prevent collisions.
 <!-- ![Number of Collisions by Zip Code](images/graphs/number_of_collisions_by_zip_code.png) -->
 <img src="images/graphs/number_of_collisions_by_zip_code.png" alt="Number of Collisions by Zip Code">
 
