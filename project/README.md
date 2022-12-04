@@ -13,7 +13,6 @@ The tools used to build this Data Warehouse were: (change this to make applicabl
 3. Business Intelligence: Tableau
 
 ## Kimball Lifecycle Project Stages
-
 ### Project Planning
 #### Motivation for project:
 A recent congestion pricing plan will charge drivers $23 to enter Manhattan if implemented. It was part of NYC’s strategy to tackle congestion and other problems relating to the city’s health ([source](https://www.nytimes.com/2022/08/18/nyregion/nyc-congestion-pricing-manhattan.html)). This sparked our group’s interest in taking a look into the traffic congestion statistics in NYC - specifically relating to traffic accidents. This is especially relevant now that the city is implementing more bike lanes and reducing carbon emissions. For example, in 2013, Citi Bike was launched as an alternative transportation method to help the environment and keep the city’s citizens healthy. 
@@ -101,9 +100,9 @@ List of Visualizations for each KPI:
 <!-- ![Number of Cyclist Collisions by Year](images/graphs/number_of_cyclist_collisions_by_year.png) -->
 <img src="images/graphs/number_of_cyclist_collisions_by_year.png" alt="Number of Cyclist Collisions by Year">
 
-6. Tree map showing number of collisions by zip code. A tree map can be used here because they capture relative sizes of categories (in this case zip codes). This is especially helpful because we are mainly interested <b>mainly</b> in areas with the high collision counts. The New York City Department of Transportation can prioritize zip codes with higher collisions to help reduce and prevent collisions.
+6. GeoMap showing number of collisions by zip code. Because our visuals are made in Tableau (and later published as dashboard), users can easily hover over the map to see the breakdown of collision counts by zip code. We originally had a treemap graph here showing areas of high collision, but it pushed out and made smaller collision count zip codes harder to see since size of the treemap directly correlates to collision count.
 <!-- ![Number of Collisions by Zip Code](images/graphs/number_of_collisions_by_zip_code.png) -->
-<img src="images/graphs/number_of_collisions_by_zip_code.png" alt="Number of Collisions by Zip Code">
+<img src="images/graphs/number_of_collisions_by_zip_code_geomap.png" alt="Number of Collisions by Zip Code">
 
 <p>&nbsp;</p>
 
@@ -115,15 +114,18 @@ List of Visualizations for each KPI:
 
 #### Pictures of final Dashboard(s):
 ##### Dashboard 1:
-![Dashboard 1](images/dashboard_1.png)
+![Dashboard 1](images/dashboard1.png)
 
 
 ##### Dashboard 2:
-![Dashboard 2](images/dashboard_2.png)
+![Dashboard 2](images/dashboard2.png)
 
 <br>
 
 ### Deployment
 The project was deployed on Tableau Public:
-1. [Dashboard 1](https://public.tableau.com/app/profile/jason.jiang4864/viz/NYCMotorVehicleCollisionTransparency/Dashboard?publish=yes)
-2. [Dashboard 2 (continued)](https://public.tableau.com/app/profile/jason.jiang4864/viz/NYCMotorVehicleCollisionTransparencycontinued/Dashboard2?publish=yes)
+https://public.tableau.com/app/profile/jason.jiang4864/viz/NYCMotorVehicleCollisionTransparency_Story/Story?publish=yes 
+
+
+## Optional: ETL Process
+https://colab.research.google.com/drive/1WziHgZt8CkqWi8p2OFwlmhjA_Vsf54aP?authuser=1#scrollTo=3VOjAL0neHlK 
